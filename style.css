@@ -1,0 +1,31 @@
+body{
+    background-color: #F4D04E;
+    font-family: 'Figtree', sans-serif;
+}
+
+.cardFooter{
+    font-weight: bold;
+    font-family: Figtree;
+}
+
+h1{
+    font-weight: bold;
+    font-family: Figtree;
+}
+
+p{
+    font-family: Figtree;
+}
+span{
+    font-family: Figtree;
+    &:hover {
+        color: #F4D04E;
+    }
+}
+.btn{
+    font-family: Figtree;
+    font-weight: bold;
+}
+.cardShadow{
+    box-shadow: 8px 8px 2px 2px black;
+}
